@@ -12,6 +12,6 @@ Główną ideą projektu jest stowrzenia tłumacza, który nagrywa głos, dokonu
 Projekt został zrealizowany przy pomocy następujących pakietów:
 - sounddevice
 - scipy
--whisper
+- whisper
 
 <img src="https://raw.githubusercontent.com/openai/whisper/main/approach.png" alt="Girl in a jacket">
