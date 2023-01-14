@@ -5,6 +5,7 @@
 - Karol Augustyniak
 <br>
 Projekt zaliczeniowy w ramach przedmiotu Języki i Biblioteki Analizy Danych
+
 <b>Informatyka - Data Science</b>
 
 Główną ideą projektu jest stowrzenia programu o następującej funkcjonalności:
