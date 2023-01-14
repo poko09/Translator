@@ -12,11 +12,17 @@ Główną ideą projektu jest stowrzenia programu o następującej funkcjonalno�
 - tłumaczenie z dowolnego języka na język angielski
 - detekcja języka, w którym zostało wykonane nagranie.
 
-<b>Okno aplikacji </b>
+<br>
+
+<h3> Okno aplikacji: </h3>
+
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/poko09/Translator/main/images/gui_picture.png">
 
-<br>
+</p>
+
+<br> </br>
 
 Projekt został zrealizowany przy pomocy następujących pakietów:
 - sounddevice
