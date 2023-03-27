@@ -1,18 +1,18 @@
 # Translator
 
-<h3> Autor: </h3>
+<h3> Author: </h3>
 
 - Karol Augustyniak
 <br>
-Projekt zaliczeniowy w ramach przedmiotu Języki i Biblioteki Analizy Danych
 
-<b>Informatyka - Data Science</b>
+<b>Computer Science - Data Science</b>
+<b>AGH UST</b>
 
-Główną ideą projektu jest stowrzenia programu o następującej funkcjonalności:
-- nagrywanie dźwięku,
-- transkrypcja nagranego głosu
-- tłumaczenie z dowolnego języka na język angielski
-- detekcja języka, w którym zostało wykonane nagranie.
+The main idea of the project is to develop a program with the following functionality:
+- sound recording,
+- transcription of the recorded voice,
+- translation from any language into English,
+- detection of the language in which the recording was made.
 
 <br>
 
@@ -26,12 +26,12 @@ Główną ideą projektu jest stowrzenia programu o następującej funkcjonalno�
 
 <br> </br>
 
-Projekt został zrealizowany przy pomocy następujących pakietów:
+The project was implemented with the following packages:
 - sounddevice
 - scipy
 - whisper
 
-Poniższa grafika obrazuje sposób działania biblioteki whisper:
+The following graphic illustrates how the whisper library works:
 
 <img src="https://raw.githubusercontent.com/openai/whisper/main/approach.png">
 
