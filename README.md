@@ -18,7 +18,7 @@ The main idea of the project is to develop a program with the following function
 
 <br>
 
-<h3> GUI </h3>
+<h3> GUI: </h3>
 
 <p align="center">
 
