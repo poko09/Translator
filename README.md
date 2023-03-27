@@ -6,6 +6,7 @@
 <br>
 
 <b>Computer Science - Data Science</b>
+
 <b>AGH UST</b>
 
 The main idea of the project is to develop a program with the following functionality:
